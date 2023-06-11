@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm a self-taught developer who discovered my passion for coding during the pandemic. With a background in Aircraft Maintenance, I made the exciting decision to transition into a career in software development. I'm competent in React, Node.js, JavaScript, and TypeScript. I'm actively seeking opportunities to contribute my skills and passion for coding to impactful projects. If you're looking for a dedicated, self-taught developer with competency in React, Node.js, JavaScript, and TypeScript, I would love to connect. Feel free to reach out to me!
+I'm a self-taught developer who discovered my passion for coding during the pandemic. With a background in Aircraft Maintenance, I made the exciting decision to transition into a career in software development. I'm actively seeking opportunities to contribute my skills and passion for coding to impactful projects. If you're looking for a dedicated, self-taught developer with competency in React, Node.js, JavaScript, and TypeScript, I would love to connect. Feel free to reach out to me!
 
 - 🌍  I'm based in Bangkok, Thailand
 - ✉️  You can contact me at [boonyarit.iamsaard@gmail.com](mailto:boonyarit.iamsaard@gmail.com)
