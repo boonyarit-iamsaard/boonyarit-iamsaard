@@ -1,15 +1,16 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boonyarit Iamsa-ard
 
-## Full-Stack Developer
+## Full-stack Developer
 
 ### About Me
 
-I'm a self-taught developer who discovered my passion for coding during the pandemic. With a background in Aircraft Maintenance, I made the exciting decision to transition into a career in software development. I'm actively seeking opportunities to contribute my skills and passion for coding to impactful projects. If you're looking for a dedicated, self-taught developer with competency in React, Node.js, JavaScript, and TypeScript, I would love to connect. Feel free to reach out to me!
+Transitioning from aircraft maintenance to self-taught software development during the pandemic, I've grown into a dedicated full-stack developer with a focus on React and Node.js ecosystems. I thrive in collaborative environments and enjoy building efficient, performant solutions. Focused on delivering scalable applications with clean, maintainable code that drives business growth.
 
-- 🌍  I'm based in Bangkok, Thailand
-- ✉️  You can contact me at [boonyarit.iamsaard@gmail.com](mailto:boonyarit.iamsaard@gmail.com)
+- 🌍 Bangkok, Thailand
+- ✉️ [boonyarit.iamsaard@gmail.com](mailto:boonyarit.iamsaard@gmail.com)
+- 💼 [boonyarit-iamsaard](https://www.linkedin.com/in/boonyarit-iamsaard)
 
-### Skills
+## Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -26,8 +27,6 @@ I'm a self-taught developer who discovered my passion for coding during the pand
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
-### Socials
+### Current Project
 
-<p align="left">
-<a href="https://www.linkedin.com/in/boonyarit-iamsaard" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+- [ ] [Hotel Management System](https://github.com/boonyarit-iamsaard/hotel-management-system) - A custom-built solution for a local hotel to manage room bookings, payments, guest information, and daily operations through an admin dashboard. Developed with Next.js.
