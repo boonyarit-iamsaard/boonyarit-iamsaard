@@ -29,4 +29,4 @@ Transitioning from aircraft maintenance to self-taught software development duri
 
 ### Current Project
 
-- [ ] [Hotel Management System](https://github.com/boonyarit-iamsaard/hotel-management-system) - A custom-built solution for a local hotel to manage room bookings, payments, guest information, and daily operations through an admin dashboard. Developed with Next.js and tRPC.
+- [ ] [Hotel Management System](https://github.com/boonyarit-iamsaard/hotel-management-system) - A mirror version of a custom-built solution developed with Next.js and tRPC for a local hotel client. This system manages room bookings, payments, guest information, and daily operations through an admin dashboard.
