@@ -9,6 +9,7 @@ Transitioning from aircraft maintenance to self-taught software development duri
 - 🌍 Bangkok, Thailand
 - ✉️ [boonyarit.iamsaard@gmail.com](mailto:boonyarit.iamsaard@gmail.com)
 - 💼 [boonyarit-iamsaard](https://www.linkedin.com/in/boonyarit-iamsaard)
+- 🌐 [boonyarit.me](https://boonyarit.me)
 
 ## Tech Stack
 
