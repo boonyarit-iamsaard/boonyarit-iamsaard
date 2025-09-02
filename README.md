@@ -55,4 +55,4 @@ Transitioning from aircraft maintenance to self-taught software development duri
 ### Current Project
 
 - [ ] [Portfolio](https://boonyarit.me/projects/portfolio) - A modern, performant personal website showcasing my projects, skills, and professional journey. Built as a dynamic digital resume for potential employers and collaborators.
-- [ ] [Next.js Starter Kit](https://github.com/boonyarit-iamsaard/next-kit) - Jumpstart your Next.js projects with this comprehensive starter kit featuring TypeScript, tRPC, and shadcn/ui. Includes robust authentication and authorization powered by better-auth, complete with user management capabilities.
+- [ ] [Next.js Starter Kit](https://github.com/boonyarit-iamsaard/next-starter-kit) - Jumpstart your Next.js projects with this comprehensive starter kit featuring Drizzle, tRPC, and shadcn/ui. Includes robust authentication and authorization powered by better-auth, complete with user management capabilities.
