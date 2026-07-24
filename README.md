@@ -4,7 +4,7 @@
 
 ### About Me
 
-Transitioning from aircraft maintenance to self-taught software development during the pandemic, I've grown into a dedicated full-stack developer with a focus on React and Node.js ecosystems. I thrive in collaborative environments and enjoy building efficient, performant solutions. Focused on delivering scalable applications with clean, maintainable code that drives business growth.
+Engineer with 19 years in aircraft maintenance before pivoting to software. I build reliable, maintainable systems with a preference for explicit structure and complexity that earns its place. Strongest in Node.js, React, and TypeScript; actively deepening a second stack in Spring Boot. Drawn to fintech and enterprise systems in Thailand.
 
 - 🌍 Bangkok, Thailand
 - ✉️ [boonyarit.iamsaard@gmail.com](mailto:boonyarit.iamsaard@gmail.com)
