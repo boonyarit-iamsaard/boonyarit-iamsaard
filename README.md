@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Boonyarit Iamsa-ard
 
-## Full-stack Developer
+## Software Engineer
 
 ### About Me
 
@@ -29,20 +29,14 @@ Transitioning from aircraft maintenance to self-taught software development duri
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
 </a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" alt="Express" />
-</a>
-<a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" />
 </a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="36" height="36" alt="SQL Server" />
 </a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" />
@@ -52,7 +46,7 @@ Transitioning from aircraft maintenance to self-taught software development duri
 </a>
 </p>
 
-### Current Project
+### Current Projects
 
-- [ ] [Portfolio](https://boonyarit.me/projects/portfolio) - A modern, performant personal website showcasing my projects, skills, and professional journey. Built as a dynamic digital resume for potential employers and collaborators.
-- [ ] [Next.js Starter Kit](https://github.com/boonyarit-iamsaard/next-starter-kit) - Jumpstart your Next.js projects with this comprehensive starter kit featuring Drizzle, tRPC, and shadcn/ui. Includes robust authentication and authorization powered by better-auth, complete with user management capabilities.
+- [ ] [Foundry](https://github.com/boonyarit-iamsaard/foundry) - Personal portfolio site at boonyarit.me, built with Next.js and a content-driven architecture.
+- [ ] [SQL Grimoire](https://github.com/boonyarit-iamsaard/sql-grimoire) - A browser-based SQL learning platform that teaches database reasoning through realistic production incidents — embedded SQLite, result-graded challenges, and structured progression.
